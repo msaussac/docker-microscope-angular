@@ -8,7 +8,7 @@ Requirements
 Node.js installation
 --------------------
 
-#### create src and build folder : 
+#### create src and build folders : 
 
 	mkdir src && mkdir build
 
