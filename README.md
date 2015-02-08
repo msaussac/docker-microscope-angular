@@ -5,7 +5,7 @@ Requirements
 * docker
 * git
 
-Node.js installation
+Installation
 --------------------
 
 #### create src and build folders : 
